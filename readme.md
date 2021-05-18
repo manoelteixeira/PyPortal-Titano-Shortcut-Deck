@@ -1,6 +1,7 @@
 # Pyportal Titano Shortcut Deck
 > A simple shortcut deck using Adafruit PyPortal Titano. 
 
+![Shortcut Deck](https://raw.githubusercontent.com/manoelteixeira/PyPortal-Titano-Shortcut-Deck/main/shortcut.GIF)
 
 ## Requirements:
 - [Circuitpyton firmware](https://circuitpython.org/)
